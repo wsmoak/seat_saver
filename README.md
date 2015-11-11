@@ -1,5 +1,7 @@
 # SeatSaver
 
+Basic Phoenix project modified as described in http://www.cultivatehq.com/posts/phoenix-elm-2/
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`
